@@ -3,7 +3,7 @@ import scala.annotation.tailrec
 /**
   * Created by lilyd on 5/9/2017.
   */
-object Main{
+object Problem20{
   def main(args: Array[String]): Unit = {
     val bigFactorial = factorial(100)
     println(s"Factorial=$bigFactorial")
